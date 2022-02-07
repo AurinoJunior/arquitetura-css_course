@@ -1,13 +1,13 @@
-.menu_link {
+.menu__link {
   color: #808080;
   text-decoration: none;
 }
 
-.menu_link.ativo {
+.menu__link.ativo {
   color: #333333;
   font-weight: bold;
 }
 
-.menu_link:hover {
+.menu__link:hover {
   filter: brightness(0.5);
 }
