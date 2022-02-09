@@ -1,0 +1,6 @@
+.receita {
+  background-color: #fdfdfd;
+  display: flex;
+  flex-direction: column;
+  flex-basis: min-content;
+}
